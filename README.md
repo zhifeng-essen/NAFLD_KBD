@@ -1,4 +1,10 @@
-# NAFLD KBD
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/nafld_kbd_logo.svg" alt="NAFLD KBD" width="200"></a>
+  <br>
+  Markdownify
+  <br>
+</h1>
 
 <h4 align="center">NAFLD Knowledge Base of Drugs powered by <a href="https://streamlit.io/" target="_blank">Streamlit</a>.</h4>
 
