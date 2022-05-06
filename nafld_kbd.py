@@ -14,7 +14,7 @@ warnings.warn = warn
 from ketcher import ketcher
 
 icon = Image.open('./icon.png')
-st.set_page_config(page_title='NAFLD KBS', layout='wide', page_icon=icon)
+st.set_page_config(page_title='NAFLD KBD', layout='wide', page_icon=icon)
 
 @st.cache
 def read_data():
