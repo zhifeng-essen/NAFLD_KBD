@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/nafld_kbd_logo.svg" alt="NAFLD KBD" width="500"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/nafld_kbd_logo.svg" alt="NAFLD KBD" width="400"></a>
   <br>
 </h1>
 
@@ -45,7 +45,7 @@ $ git clone https://github.com/zhifeng-essen/NAFLD_KBD.git
 $ cd NAFLD_KBD
 
 # Install dependencies
-$ pip install -r requirements
+$ pip install -r requirements.txt
 
 # Run the app
 $ streamlit run nafld_kbd.py
