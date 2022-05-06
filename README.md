@@ -7,6 +7,15 @@
 <h4 align="center">NAFLD Knowledge Base of Drugs powered by <a href="https://streamlit.io/" target="_blank">Streamlit</a>.</h4>
 
 <p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/python-3.9-success.svg?style=flat" alt="">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/streamlit-1.7.0-ff4c4b.svg?style=flat" alt="">
+  </a>
+</p>
+
+<p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-run">How To Run</a> •
   <a href="#credits">Credits</a> •
