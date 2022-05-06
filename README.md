@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3.9-success.svg?style=flat" alt="">
+    <img src="https://img.shields.io/badge/python-3.9-success.svg?style=flat" target="_blank" alt="">
   </a>
   <a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/streamlit-1.7.0-ff4c4b.svg?style=flat" alt="">
+    <img src="https://img.shields.io/badge/streamlit-1.7.0-ff4c4b.svg?style=flat" target="_blank" alt="">
   </a>
-  <a href="https://share.streamlit.io/zhifeng-essen/NAFLD_KBD/master/nafld_kbd.py">
+  <a href="https://share.streamlit.io/zhifeng-essen/NAFLD_KBD/master/nafld_kbd.py" target="_blank">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="">
   </a>
 </p>
