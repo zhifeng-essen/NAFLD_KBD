@@ -1,8 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/nafld_kbd_logo.svg" alt="NAFLD KBD" width="200"></a>
-  <br>
-  Markdownify
+  <a href=""><img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/nafld_kbd_logo.svg" alt="NAFLD KBD" width="500"></a>
   <br>
 </h1>
 
