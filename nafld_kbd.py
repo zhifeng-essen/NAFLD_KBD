@@ -25,7 +25,7 @@ def read_data():
 
 trials, drugs, targets = read_data()
 
-class MultiPage:
+class NAFLD_KBD:
     def __init__(self) -> None:
         self.header = st.empty()
         self.body = st.empty()
@@ -225,7 +225,7 @@ class MultiPage:
         ]})
 
 
-app = MultiPage()
+app = NAFLD_KBD()
 app.run()
 
 # CSS
