@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#how-to-run">How To Run</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
@@ -20,7 +20,7 @@
 * Advanced Tabular Data Display
 * Custom Components
 
-## How To Use
+## How To Run
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Python 3.9](https://www.python.org/downloads/release/python-390/) installed on your computer. From your command line:
 
