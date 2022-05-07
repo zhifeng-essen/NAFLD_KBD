@@ -6,13 +6,13 @@
 
 <h4 align="center">NAFLD Knowledge Base of Drugs powered by <a href="https://streamlit.io/" target="_blank">Streamlit</a>.</h4>
 
-<center>
+<div align='center'>
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-success.svg?style=flat)](https://www.python.org/)
 [![Streamlit 1.7.0](https://img.shields.io/badge/streamlit-1.7.0-ff4c4b.svg?style=flat)](https://streamlit.io/)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/zhifeng-essen/NAFLD_KBD/master/nafld_kbd.py)
 
-</center>
+</div>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
