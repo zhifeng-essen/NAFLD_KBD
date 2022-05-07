@@ -207,7 +207,8 @@ class NAFLD_KBD:
             self.simple_format_details(targets.loc[int(target_id)].to_dict())
 
     def page_about(self):
-        st.info('This is About Page')
+        with open('./README.md', 'r') as f:
+            st.markdown(f.read(), unsafe_allow_html=True) 
 
     def run(self):
         self.update_session_from_link()

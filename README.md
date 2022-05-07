@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/nafld_kbd_logo.svg" alt="NAFLD KBD" width="400"></a>
+  <a href="https://github.com/zhifeng-essen/NAFLD_KBD"><img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/nafld_kbd_logo.svg" alt="NAFLD KBD" width="400"></a>
   <br>
 </h1>
 
@@ -26,7 +26,10 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/screenshot/ss1-tuya.webp)
+<!-- ![screenshot](https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/screenshot/ss1-tuya.webp) -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/zhifeng-essen/NAFLD_KBD/master/screenshot/ss1-tuya.webp" alt="NAFLD KBD" width="830" alt="screenshot">
+</p>
 
 ## Key Features
 
